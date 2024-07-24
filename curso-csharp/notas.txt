@@ -1,0 +1,78 @@
+C#: lenguaje de programación orientado a objetos, multiplatafotma, es de código administrado, es decir, que requiere un lenguaje intermediario para paraducirlo a código máquina
+.NET: framework de c#
+
+namespace: permite agrupar clases e interfaces con le fin de organizarlas, facilita la modularidad del código
+
+Crear un proyecto de consola de c# -dotnet new console -n nombreDelProyecto
+    correr el proyecto -dotnet run
+
+Clase en C#: 
+    -es una plantilla para crear objetos
+método main en c#: Permite ejecutar nuestro programa
+
+namespaces: Windows.Form, tiene el componente button y muchos mas 
+
+Espacio de memoria, se puede almacenar valor
+    Variables: El valor puede ser modificado en cualquier parte del programa 
+    Constante: alacenan un valor fijo que no puede ser moficado
+TIPOS DE DATOS: hay primitivos y no primitivos, indican que tipo de valor va a estar almacenado en una variable o en una constante
+    Enteros: datos numericos de tipo enteros: 
+        int: 4 Bytes de memoria
+        long: 8 Bytes de memoria
+        Short: 2 Bytes de memoria
+        Byte: 1 Byte de memoria
+    Decimales
+        Float: 4 Bytes de memoria
+        Double: 8 Bytes de memoria
+    Booleanos
+        True
+        False
+    Caracteres
+        Char: almacenar un caracter individual
+    Cadena de Caracteres
+        String
+
+Declaración y asignación de datos
+Al crear una variable se tiene que asociar a un tipo de dato, al iniciar una variable es darle valor a la misma, ese dato debe estar relacionado al tipo de datos con el que se creó la variable
+    *1*
+    Constantes: const (tipo de de dato) NOMBRE_DE_LA_CONSTANTE = valor
+    Variables: (tipo de dato) nombreDeLaVariable = valor / int number =1;
+Modifiar un valor
+    nombreDeLaVariable = nuevo valor
+
+Ámbito de una variable: indican el espacio de la variable y que alcance tiene cuando es declarada
+    -Local: se declaran dentro de una función, método, condiciones, bluces, etc
+        - solo pueden ser accedidas o modificadas desde la misma función donde fueron declaradas *2*
+    -Global: una vez declaradas pueden ser utilizadas desde cualquier parte del programa
+
+Operadores y expresiones
+    Operadores: aritmeticos, relacionales, lógicos, ayudan a establecer operaciones matematicas, comparaciones, condiciones
+        Operadores aritméticos
+            + suma
+            - resta
+            * multiplicación
+            / división
+            % modulo o residuo
+            ++ Incremento
+            -- Decremento
+        Operadores relacionales (comparaciones y condiciones) el resultado es true o false
+            > Mayor que
+            < Menor que
+            >= Mayor o igual que
+            <= Menor o igual que
+            != Distinto que
+            == Igual que
+        Operadores lógicos (unir dos o mas condicioness) el resultado es true o false
+            && y c1 -c2 ambas condiciones deben ser verdaderas - true
+            || o c1 -c2 almenos una de las condiciones debe ser verdadera - true
+            ! Negación - transforma la condicion de false a true y de true a false
+
+    Expresión: Es la representación de un valor *3*
+        expresiones aritmeticas
+        expresiones relacionales se tiene que declar en variables booleandas
+        expresiones lógicas
+    
+Entrada de datos por teclado
+    Usando el método ReadLine de la clase Console (Console.ReadLine)
+    video numero 6, min 2:30
+
