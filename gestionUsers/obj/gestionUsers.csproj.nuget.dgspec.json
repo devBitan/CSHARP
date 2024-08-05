@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CODE\\RIWI\\rutaAvanzada\\CSHARP\\curso-csharp\\curso-csharp.csproj": {}
+    "C:\\CODE\\RIWI\\rutaAvanzada\\CSHARP\\gestionUsers\\gestionUsers.csproj": {}
   },
   "projects": {
-    "C:\\CODE\\RIWI\\rutaAvanzada\\CSHARP\\curso-csharp\\curso-csharp.csproj": {
+    "C:\\CODE\\RIWI\\rutaAvanzada\\CSHARP\\gestionUsers\\gestionUsers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CODE\\RIWI\\rutaAvanzada\\CSHARP\\curso-csharp\\curso-csharp.csproj",
-        "projectName": "curso-csharp",
-        "projectPath": "C:\\CODE\\RIWI\\rutaAvanzada\\CSHARP\\curso-csharp\\curso-csharp.csproj",
+        "projectUniqueName": "C:\\CODE\\RIWI\\rutaAvanzada\\CSHARP\\gestionUsers\\gestionUsers.csproj",
+        "projectName": "gestionUsers",
+        "projectPath": "C:\\CODE\\RIWI\\rutaAvanzada\\CSHARP\\gestionUsers\\gestionUsers.csproj",
         "packagesPath": "C:\\Users\\jquir\\.nuget\\packages\\",
-        "outputPath": "C:\\CODE\\RIWI\\rutaAvanzada\\CSHARP\\curso-csharp\\obj\\",
+        "outputPath": "C:\\CODE\\RIWI\\rutaAvanzada\\CSHARP\\gestionUsers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jquir\\AppData\\Roaming\\NuGet\\NuGet.Config"

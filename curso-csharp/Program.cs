@@ -7,6 +7,7 @@ numero = 3;
 Console.WriteLine(numero);
 const int CONST_NUMERO = 2;
 Console.WriteLine(CONST_NUMERO);
+List<string> lista = new List<string>();
 
 
 namespace ClaseUno

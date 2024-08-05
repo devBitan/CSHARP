@@ -76,3 +76,90 @@ Entrada de datos por teclado
     Usando el método ReadLine de la clase Console (Console.ReadLine)
     video numero 6, min 2:30
 
+Funciones
+
+[modificadores] tipo_retorno nombre_funcion (argumentos) {
+    codigo
+}
+
+Una clase permite guardar variables y funciones
+    variables = propieadrs
+    funciones = metodos
+
+    Ppio de escapsulamiento (controlar el acceso a cada porpiedad y metodo de la clase)
+        -publico = desde cualuwir lugar se púede acceder 
+        protegido
+        privado = solo se accede dentro de la clase 
+
+UML
+
+clases
+
+Objetos
+    Constructor: lo primero que se ejecuta cuando creo un objeto
+
+
+metodos
+    miembro de una clase
+    puede acceder y modidicar atributos de una clase
+    puede aceptar argumentos
+    puede devolver un valor
+    puede ser sobrrescrito o sobrecargadfo
+    puede ser estatico o bastracto 
+
+    Declarar un metodo
+    nivel de acceso - que dato retorna - nombre metodo(){}
+                public string mostrarInfo()
+                {
+                    
+                }
+    Soi el nivel de acceso es privado lo que se tiene que hacer es usar dentro de un metodo publico para acceder a el 
+        public string algoPublico()
+        {
+            return algoPrivado
+        }
+        private striong algoPrivado()
+        {
+            return hola 
+        }
+
+porpiedades y encapsulamiento
+    miembros de una clase
+    visibilidad - fuera de la clase se puede acceder a esta propiedad
+    getter y setters
+    inmutabilidad - una propiedad solo se defina una vez y no pueda ser modificado
+    abstraccion 
+
+Herencia
+    -es como englobar 
+    animal
+        perro hereda de animal
+        un gato hereda de animal
+        hamster hereda de animal
+    una clase padre define lo que se hereda
+
+    public class Gerente: Persona (persona es el padre de donde va a heredar)
+    las propieades con el nivel de acceso protected solo son para los hijos que heredan
+
+Clases Abstractas : 
+    No se pueden crear instancias
+    pueden tener metodos abstractos
+    pueden tener metodos concretos
+    pueden tener variables de instancia
+    las clases bastractas pueden heredar de otras clases bastractas o concretas
+
+Metodos abstractos
+    declaracion sin implementacion
+    obligatoriedad de implementacion
+    el comportamiento lo define la clase hija
+
+Clase Persona
+    Clase Empleado
+        Clase vendedor
+        Clase Gerente
+
+
+interfaces (se parecen a las clasea bstractas)
+    Separar comportamiento
+    Permite una mejor abstracción
+    Es un contrato que define las clausuas que se deben cumplir, es decir, los metodos que se deben cumplir

@@ -1,0 +1,15 @@
+C:\CODE\RIWI\rutaAvanzada\CSHARP\gestionUsers\bin\Debug\net8.0\gestionUsers.exe
+C:\CODE\RIWI\rutaAvanzada\CSHARP\gestionUsers\bin\Debug\net8.0\gestionUsers.deps.json
+C:\CODE\RIWI\rutaAvanzada\CSHARP\gestionUsers\bin\Debug\net8.0\gestionUsers.runtimeconfig.json
+C:\CODE\RIWI\rutaAvanzada\CSHARP\gestionUsers\bin\Debug\net8.0\gestionUsers.dll
+C:\CODE\RIWI\rutaAvanzada\CSHARP\gestionUsers\bin\Debug\net8.0\gestionUsers.pdb
+C:\CODE\RIWI\rutaAvanzada\CSHARP\gestionUsers\obj\Debug\net8.0\gestionUsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\RIWI\rutaAvanzada\CSHARP\gestionUsers\obj\Debug\net8.0\gestionUsers.AssemblyInfoInputs.cache
+C:\CODE\RIWI\rutaAvanzada\CSHARP\gestionUsers\obj\Debug\net8.0\gestionUsers.AssemblyInfo.cs
+C:\CODE\RIWI\rutaAvanzada\CSHARP\gestionUsers\obj\Debug\net8.0\gestionUsers.csproj.CoreCompileInputs.cache
+C:\CODE\RIWI\rutaAvanzada\CSHARP\gestionUsers\obj\Debug\net8.0\gestionUsers.sourcelink.json
+C:\CODE\RIWI\rutaAvanzada\CSHARP\gestionUsers\obj\Debug\net8.0\gestionUsers.dll
+C:\CODE\RIWI\rutaAvanzada\CSHARP\gestionUsers\obj\Debug\net8.0\refint\gestionUsers.dll
+C:\CODE\RIWI\rutaAvanzada\CSHARP\gestionUsers\obj\Debug\net8.0\gestionUsers.pdb
+C:\CODE\RIWI\rutaAvanzada\CSHARP\gestionUsers\obj\Debug\net8.0\gestionUsers.genruntimeconfig.cache
+C:\CODE\RIWI\rutaAvanzada\CSHARP\gestionUsers\obj\Debug\net8.0\ref\gestionUsers.dll
